@@ -1,1 +1,1 @@
-# piskorky
+# piškôrky
