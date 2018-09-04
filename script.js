@@ -161,10 +161,6 @@ $(function () {
                         }
                     }
                 }
-                var array = [posX0, posX1, posX2, posX3, posX4, $(row.cells[j + 5]).data("player"), $(row.cells[j + 6]).data("player")];
-
-                console.log(array.length);
-
             }
         }
     }
